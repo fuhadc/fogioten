@@ -1,0 +1,9 @@
+setup.py
+function/__init__.py
+function/function.py
+myapi.egg-info/PKG-INFO
+myapi.egg-info/SOURCES.txt
+myapi.egg-info/dependency_links.txt
+myapi.egg-info/entry_points.txt
+myapi.egg-info/requires.txt
+myapi.egg-info/top_level.txt
